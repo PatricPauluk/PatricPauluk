@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatricPauluk
 - 👀 I’m interested in web development :)
-- 🌱 I’m currently learning Node.js, Express, MongoDB.
+- 🌱 I’m currently learning Node.js, Express, MongoDB
 - 📫 Paraná, Brazil 
 
 <!---
