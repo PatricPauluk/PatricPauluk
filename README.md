@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Patric+👋;Welcome+to+my+GitHub+profile+😉;I'm+still+a+student,+but+I+can+do+some+cool+things+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Patric+and+welcome+to+my+GitHub+profile!+👋😉;I'm+still+a+student,+but+I+can+do+some+cool+things.+I'm+currently+learning+Ruby+on+Rails+👨‍💻)](https://git.io/typing-svg)
 
 <div align="center" valign="top"><br>
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
