@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Patric!+👋😉;I'm+currently+learning+Ruby+on+Rails.+👨‍💻)](https://git.io/typing-svg)
 
 [![Patric's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatricPauluk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatricPauluk&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatricPauluk&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
