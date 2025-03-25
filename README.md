@@ -15,13 +15,11 @@
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg">
 </div><br>
 
-<img src="https://raw.githubusercontent.com/PatricPauluk/gitrepo/output/snake.svg" alt="Snake animation" />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=80&section=footer"/>
 
 <!---
 PatricPauluk/PatricPauluk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+<img src="https://raw.githubusercontent.com/PatricPauluk/gitrepo/output/snake.svg" alt="Snake animation" />
 Icons: https://devicon.dev/
 --->
